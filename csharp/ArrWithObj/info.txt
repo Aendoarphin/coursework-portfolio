@@ -1,0 +1,6 @@
+﻿process all employees in the list:
+
+make pay stub for each emplyee
+pay stub has: employee name, salary, 20% federal tax, 5% state tax, 6.5% security
+
+print: net pay, total deductions
