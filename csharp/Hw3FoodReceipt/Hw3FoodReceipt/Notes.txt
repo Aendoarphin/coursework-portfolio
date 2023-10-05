@@ -1,0 +1,31 @@
+﻿Date and time of the transaction (datetime class)
+
+Name and address of the restaurant
+
+Order details
+	- items
+	- quantities
+	- prices
+
+Total cost (including any taxes or service charges)
+
+Payment method
+
+Tips (numeric updown)
+
+Order number or table number (string or int)
+
+Due Date: Friday, March 24 
+Points: 70. You can earn bonus points as follow:  Instead of using text files, if use CVS file you can earn 4 bonus points, or JSON files I/O 5 points       
+To receive the bonus points: You need to meet all requirements including submitting the project on time                
+Additional 2   bonus points: submit project by:  March 24 
+What to do: revise the food from file code to include the following features
+1. Allow customers to order multiple items from the same category. 
+2. Calculate the tax 
+3. Calculate the tip 
+4. Display a receipt in a control such as a listbox showing details of the order, tax, and tip in addition to the name of the waiter, the date, and the table number 
+5. Print the receipt to a file 
+
+An array of objects instead of the 2D array 5 bonus points
+
+CONTINUE ON LABEL FOR ORDER SUMMARY

@@ -1,0 +1,243 @@
+﻿[
+    {
+      "name": "Bruschetta",
+      "category": "Appetizers",
+      "price": 8,
+      "description": "Grilled bread topped with tomatoes, garlic, and basil."
+    },
+    {
+      "name": "Chicken Wings",
+      "category": "Appetizers",
+      "price": 10,
+      "description": "Deep-fried wings served with a variety of sauces."
+    },
+    {
+      "name": "Edamame",
+      "category": "Appetizers",
+      "price": 6,
+      "description": "Boiled soybeans seasoned with sea salt."
+    },
+    {
+      "name": "Fried Calamari",
+      "category": "Appetizers",
+      "price": 12,
+      "description": "Breaded and fried squid served with marinara sauce."
+    },
+    {
+      "name": "Hummus and Pita",
+      "category": "Appetizers",
+      "price": 9,
+      "description": "Chickpea spread served with warm pita bread."
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "category": "Appetizers",
+      "price": 8,
+      "description": "Breaded and fried mozzarella served with marinara sauce."
+    },
+    {
+      "name": "Nachos",
+      "category": "Appetizers",
+      "price": 10,
+      "description": "Tortilla chips topped with melted cheese, jalapeños, and salsa."
+    },
+    {
+      "name": "Onion Rings",
+      "category": "Appetizers",
+      "price": 7,
+      "description": "Beer-battered onion rings served with dipping sauce."
+    },
+    {
+      "name": "Spinach and Artichoke Dip",
+      "category": "Appetizers",
+      "price": 11,
+      "description": "Creamy dip made with spinach and artichokes served with tortilla chips."
+    },
+    {
+      "name": "Spring Rolls",
+      "category": "Appetizers",
+      "price": 10,
+      "description": "Thin rice paper wrapped around vegetables and/or meat, served with dipping sauce."
+    },
+    {
+      "name": "Grilled Salmon",
+      "category": "Entrees",
+      "price": 20,
+      "description": "Fresh salmon fillet grilled and served with steamed vegetables and rice."
+    },
+    {
+      "name": "Pesto Pasta",
+      "category": "Entrees",
+      "price": 16,
+      "description": "Fettuccine pasta tossed with homemade basil pesto sauce and cherry tomatoes."
+    },
+    {
+      "name": "Steak Frites",
+      "category": "Entrees",
+      "price": 24,
+      "description": "Grilled sirloin steak served with crispy French fries and side salad."
+    },
+    {
+      "name": "Shrimp Scampi",
+      "category": "Entrees",
+      "price": 22,
+      "description": "Succulent shrimp sautéed in garlic butter and white wine, served over linguine pasta."
+    },
+    {
+      "name": "Chicken Parmesan",
+      "category": "Entrees",
+      "price": 18,
+      "description": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese, served with spaghetti."
+    },
+    {
+      "name": "Beef Tacos",
+      "category": "Entrees",
+      "price": 14,
+      "description": "Two soft corn tortillas filled with seasoned ground beef, lettuce, tomato, and shredded cheese."
+    },
+    {
+      "name": "Chicken Alfredo",
+      "category": "Entrees",
+      "price": 17,
+      "description": "Grilled chicken breast served over fettuccine pasta with creamy Alfredo sauce."
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "category": "Entrees",
+      "price": 15,
+      "description": "Assorted vegetables sautéed in soy sauce and served with steamed rice."
+    },
+    {
+      "name": "Spicy Sausage Penne",
+      "category": "Entrees",
+      "price": 19,
+      "description": "Penne pasta tossed with spicy Italian sausage, bell peppers, and tomato sauce."
+    },
+    {
+      "name": "Beef Stroganoff",
+      "category": "Entrees",
+      "price": 21,
+      "description": "Tender strips of beef cooked with mushrooms and onions, served over egg noodles in a creamy sauce."
+    },
+    {
+      "name": "Chocolate Cake",
+      "category": "Desserts",
+      "price": 8,
+      "description": "Decadent chocolate cake served with a scoop of vanilla ice cream."
+    },
+    {
+      "name": "Crème Brûlée",
+      "category": "Desserts",
+      "price": 9,
+      "description": "Traditional French Desserts of vanilla custard topped with a caramelized sugar crust."
+    },
+    {
+      "name": "Apple Pie",
+      "category": "Desserts",
+      "price": 7,
+      "description": "Classic American pie made with fresh apples and warm spices, served with a dollop of whipped cream."
+    },
+    {
+      "name": "Tiramisu",
+      "category": "Desserts",
+      "price": 8,
+      "description": "Layers of espresso-soaked ladyfingers and creamy mascarpone cheese, dusted with cocoa powder."
+    },
+    {
+      "name": "Banana Split",
+      "category": "Desserts",
+      "price": 9,
+      "description": "Vanilla, chocolate, and strawberry ice cream served with sliced bananas, whipped cream, and chocolate sauce."
+    },
+    {
+      "name": "Lemon Tart",
+      "category": "Desserts",
+      "price": 7,
+      "description": "Tangy lemon curd in a buttery tart shell, topped with fresh whipped cream and berries."
+    },
+    {
+      "name": "Chocolate Mousse",
+      "category": "Desserts",
+      "price": 8,
+      "description": "Silky smooth chocolate mousse topped with a dollop of whipped cream and shaved chocolate."
+    },
+    {
+      "name": "Peach Cobbler",
+      "category": "Desserts",
+      "price": 7,
+      "description": "Warm peach filling topped with a sweet biscuit crust, served with vanilla ice cream."
+    },
+    {
+      "name": "Cheesecake",
+      "category": "Desserts",
+      "price": 8,
+      "description": "Creamy New York-style cheesecake topped with your choice of fruit sauce or chocolate drizzle."
+    },
+    {
+      "name": "Gelato",
+      "category": "Desserts",
+      "price": 6,
+      "description": "Italian-style ice cream in a variety of flavors, including chocolate, vanilla, and strawberry."
+    },
+    {
+      "name": "Iced Coffee",
+      "category": "Beverages",
+      "price": 4,
+      "description": "Chilled coffee served over ice, with your choice of cream and sweetener."
+    },
+    {
+      "name": "Hot Tea",
+      "category": "Beverages",
+      "price": 3,
+      "description": "A soothing and comforting cup of your favorite tea, served hot with honey and lemon if desired."
+    },
+    {
+      "name": "Margarita",
+      "category": "Beverages",
+      "price": 8,
+      "description": "Classic tequila-based cocktail made with lime juice and triple sec, served with salt on the rim."
+    },
+    {
+      "name": "Soda",
+      "category": "Beverages",
+      "price": 2,
+      "description": "Refreshing carbonated Beverages in a variety of flavors, including cola, lemon-lime, and root beer."
+    },
+    {
+      "name": "Red Wine",
+      "category": "Beverages",
+      "price": 9,
+      "description": "Smooth and fruity red wine, served at room temperature in a stemmed glass."
+    },
+    {
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "price": 3,
+      "description": "Fresh-squeezed orange juice, packed with vitamin C and served chilled."
+    },
+    {
+      "name": "Beer",
+      "category": "Beverages",
+      "price": 5,
+      "description": "Refreshing and crisp beer in a variety of styles, including lager, ale, and stout."
+    },
+    {
+      "name": "Lemonade",
+      "category": "Beverages",
+      "price": 3,
+      "description": "Tart and sweet lemon-flavored drink, served over ice and garnished with a lemon wedge."
+    },
+    {
+      "name": "White Wine",
+      "category": "Beverages",
+      "price": 8,
+      "description": "Crisp and refreshing white wine, served chilled in a stemmed glass."
+    },
+    {
+      "name": "Milkshake",
+      "category": "Beverages",
+      "price": 6,
+      "description": "Creamy and indulgent milkshake in a variety of flavors, including chocolate, vanilla, and strawberry."
+    }
+  ]
+
